@@ -1,0 +1,37 @@
+/* selector:
+tag
+class
+id
+tag dengan atribut khusus --> jarang di pake */
+
+h2 { /*ini tag*/
+
+}
+
+#test{ /*id*/
+    text-decoration: ; /*buat kyk underline, oveline, linethrough*/
+    text-shadow: ; /*untuk bikin shadow*/
+}
+
+.test{ /*class*/
+
+}
+
+/* 
+border-style itu untuk bikin border nya keliatan ya
+border-radius itu untuk sudutnya
+border-width itu untuk ketebalanya
+
+klo padding dalam container, padding bisa bikin containernya jd lebih besar. eh tp coba size nya di jadiin fix deh jgn 100 %
+klo margin di luar container
+
+buat img repeat bs repeat-y dan repeat-x
+
+display:
+klo block itu dia makan tempat dri kiri sampe kanan
+klo inline itu di posisin satu baris horizontal dan makan tmpt sesuai isinya aja
+klo inline block itu campuran block sm inline jd ngatur nya lebih mudah. pake margin kyknya
+
+
+*/
+
